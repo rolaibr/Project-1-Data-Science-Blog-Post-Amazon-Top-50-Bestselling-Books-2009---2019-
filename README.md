@@ -19,7 +19,13 @@ using Python versions 3.
 ## Project Motivation
 
 Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads
-i was  interested to answer the following  three questions: What are the top 10 bestselling books , what Genre of books sells the most , :How was the average price in the last ten years
+## Business Understanding We are interested to answer the following three questions:
+Question 1:What are the top 10 bestselling books?
+
+Question 2 : what Genre of books sells the most?
+
+Question 3 :How was the average price in the last ten years?
+
 
 ## Dataset Description:
 
